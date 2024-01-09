@@ -52,10 +52,11 @@ public class InventoryManager : MonoBehaviour
             if (EnableRemove.isOn)
             {
                 removeButton.SetActive(true);
+
             }
         }
 
-        SetInventoryItems();
+         SetInventoryItems();
     }
 
     public void EnableItemsRemove()
@@ -74,13 +75,13 @@ public class InventoryManager : MonoBehaviour
             }
     }
 
-    public void SetInvetoryItems()
+    public void SetInventoryItems()
     {
         InventoryItems = ItemContent.GetComponentsInChildren<InventoryItemController>();
 
         for(int i = 0; i < Items.Count; i++)
         {
-            InventoryItems[i].AddItems(Items[i]);
+         InventoryItems[i].AddItem(Items[i]);
         }
     }
 }

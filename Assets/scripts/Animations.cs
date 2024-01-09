@@ -11,13 +11,14 @@ public class Animations : MonoBehaviour
     public float turnSmoothTime = 0.1f;
     public Transform cam;
     float turnSmoothVelocity;
+    private bool isSprinting;
 
     Animator anim;
     // Start is called before the first frame update
     void Start()
     {
         anim = GetComponent<Animator>();
-
+        isSprinting = false;
     }
 
     // Update is called once per frame
@@ -46,13 +47,36 @@ public class Animations : MonoBehaviour
         anim.SetBool("WalkForwards", false);
         anim.SetBool("Trip", false);
 
+        //sprinting
+
+        speed = 6;
+        isSprinting = false;
+
+        if (Input.GetKey(KeyCode.LeftShift))
+        {
+            speed = 10;
+            isSprinting = true;
+        }
+
+
         if (Input.GetKey("w") == true || Input.GetKey("a") == true || Input.GetKey("d") == true || Input.GetKey("s") == true)
         {
-            anim.SetBool(("WalkForwards"), true);
+            if (isSprinting == false)
+            {
+                anim.SetBool(("WalkForwards"), true);
+                anim.SetBool(("WalkForwardsSprint"), false);
+            }
+            else
+            {
+                anim.SetBool(("WalkForwardsSprint"), true);
+                anim.SetBool(("WalkForwards"), false);
+                print("do sprint");
+            }
         }
         else
         {
             anim.SetBool(("WalkForwards"), false);
+            anim.SetBool(("WalkForwardsSprint"), false);
         }
         
 
