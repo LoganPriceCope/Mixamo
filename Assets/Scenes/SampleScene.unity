@@ -357,6 +357,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SF_Prop_Crops_Wheat_01 (49)
       objectReference: {fileID: 0}
+    - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 479324, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -36
@@ -916,6 +920,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SF_Prop_Crops_Wheat_01 (87)
       objectReference: {fileID: 0}
+    - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 479324, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -72
@@ -1109,6 +1117,10 @@ PrefabInstance:
     - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_Name
       value: SF_Prop_Crops_Wheat_01 (63)
+      objectReference: {fileID: 0}
+    - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 479324, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1554,6 +1566,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SF_Prop_Crops_Wheat_01 (19)
       objectReference: {fileID: 0}
+    - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 479324, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -9
@@ -1647,6 +1663,10 @@ PrefabInstance:
     - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_Name
       value: SF_Prop_Crops_Wheat_01
+      objectReference: {fileID: 0}
+    - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 479324, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2466,6 +2486,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SF_Prop_Crops_Wheat_01 (26)
       objectReference: {fileID: 0}
+    - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 479324, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -18
@@ -2692,6 +2716,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SF_Prop_Crops_Wheat_01 (99)
       objectReference: {fileID: 0}
+    - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 479324, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -81
@@ -2845,6 +2873,10 @@ PrefabInstance:
     - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_Name
       value: SF_Prop_Crops_Wheat_01 (42)
+      objectReference: {fileID: 0}
+    - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 479324, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -3523,6 +3555,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SF_Prop_Crops_Wheat_01 (90)
       objectReference: {fileID: 0}
+    - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 479324, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -81
@@ -3749,6 +3785,10 @@ PrefabInstance:
     - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_Name
       value: SF_Prop_Crops_Wheat_01 (50)
+      objectReference: {fileID: 0}
+    - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 479324, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -4127,6 +4167,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SF_Prop_Crops_Wheat_01 (33)
       objectReference: {fileID: 0}
+    - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 479324, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -27
@@ -4289,6 +4333,10 @@ PrefabInstance:
     - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_Name
       value: SF_Prop_Crops_Wheat_01 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 479324, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -4804,6 +4852,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SF_Prop_Crops_Wheat_01 (62)
       objectReference: {fileID: 0}
+    - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 479324, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -54
@@ -5116,6 +5168,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SF_Prop_Crops_Wheat_01 (22)
       objectReference: {fileID: 0}
+    - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 479324, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -18
@@ -5368,6 +5424,10 @@ PrefabInstance:
     - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_Name
       value: SF_Prop_Crops_Wheat_01 (52)
+      objectReference: {fileID: 0}
+    - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 479324, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -5835,6 +5895,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SF_Prop_Crops_Wheat_01 (98)
       objectReference: {fileID: 0}
+    - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 479324, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -81
@@ -5955,6 +6019,10 @@ PrefabInstance:
     - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_Name
       value: SF_Prop_Crops_Wheat_01 (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 479324, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -6269,6 +6337,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SF_Prop_Crops_Wheat_01 (39)
       objectReference: {fileID: 0}
+    - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 479324, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -27
@@ -6357,6 +6429,10 @@ PrefabInstance:
     - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_Name
       value: SF_Prop_Crops_Wheat_01 (74)
+      objectReference: {fileID: 0}
+    - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 479324, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -7038,6 +7114,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SF_Prop_Crops_Wheat_01 (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 479324, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -7227,6 +7307,10 @@ PrefabInstance:
     - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_Name
       value: SF_Prop_Crops_Wheat_01 (35)
+      objectReference: {fileID: 0}
+    - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 479324, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -7952,6 +8036,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SF_Prop_Crops_Wheat_01 (72)
       objectReference: {fileID: 0}
+    - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 479324, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -63
@@ -8008,6 +8096,10 @@ PrefabInstance:
     - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_Name
       value: SF_Prop_Crops_Wheat_01 (92)
+      objectReference: {fileID: 0}
+    - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 479324, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -8263,6 +8355,10 @@ PrefabInstance:
     - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_Name
       value: SF_Prop_Crops_Wheat_01 (89)
+      objectReference: {fileID: 0}
+    - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 479324, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -8816,6 +8912,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SF_Prop_Crops_Wheat_01 (57)
       objectReference: {fileID: 0}
+    - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 479324, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -45
@@ -9043,6 +9143,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SF_Prop_Crops_Wheat_01 (53)
       objectReference: {fileID: 0}
+    - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 479324, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -45
@@ -9099,6 +9203,10 @@ PrefabInstance:
     - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_Name
       value: SF_Prop_Crops_Wheat_01 (24)
+      objectReference: {fileID: 0}
+    - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 479324, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -9216,7 +9324,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 537529769}
   serializedVersion: 2
-  m_LocalRotation: {x: 0.19933121, y: -0.000000008430544, z: 0.0000000017148843, w: 0.9799322}
+  m_LocalRotation: {x: 0.19933121, y: 0.0000000084305425, z: -0.000000001714884, w: 0.9799322}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -10678,6 +10786,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SF_Prop_Crops_Wheat_01 (79)
       objectReference: {fileID: 0}
+    - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 479324, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -63
@@ -10831,6 +10943,10 @@ PrefabInstance:
     - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_Name
       value: SF_Prop_Crops_Wheat_01 (34)
+      objectReference: {fileID: 0}
+    - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 479324, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -11103,6 +11219,10 @@ PrefabInstance:
     - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_Name
       value: SF_Prop_Crops_Wheat_01 (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 479324, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -11712,6 +11832,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SF_Prop_Crops_Wheat_01 (73)
       objectReference: {fileID: 0}
+    - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 479324, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -63
@@ -11768,6 +11892,10 @@ PrefabInstance:
     - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_Name
       value: SF_Prop_Crops_Wheat_01 (69)
+      objectReference: {fileID: 0}
+    - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 479324, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -12243,6 +12371,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SF_Prop_Crops_Wheat_01 (30)
       objectReference: {fileID: 0}
+    - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 479324, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -27
@@ -12299,6 +12431,10 @@ PrefabInstance:
     - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_Name
       value: SF_Prop_Crops_Wheat_01 (38)
+      objectReference: {fileID: 0}
+    - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 479324, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -12552,6 +12688,10 @@ PrefabInstance:
     - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_Name
       value: SF_Prop_Crops_Wheat_01 (45)
+      objectReference: {fileID: 0}
+    - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 479324, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -12816,6 +12956,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SF_Prop_Crops_Wheat_01 (43)
       objectReference: {fileID: 0}
+    - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 479324, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -36
@@ -12872,6 +13016,10 @@ PrefabInstance:
     - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_Name
       value: SF_Prop_Crops_Wheat_01 (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 479324, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -13149,6 +13297,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SF_Prop_Crops_Wheat_01 (66)
       objectReference: {fileID: 0}
+    - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 479324, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -54
@@ -13392,6 +13544,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SF_Prop_Crops_Wheat_01 (29)
       objectReference: {fileID: 0}
+    - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 479324, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -18
@@ -13594,6 +13750,10 @@ PrefabInstance:
     - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_Name
       value: SF_Prop_Crops_Wheat_01 (59)
+      objectReference: {fileID: 0}
+    - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 479324, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -14813,6 +14973,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SF_Prop_Crops_Wheat_01 (67)
       objectReference: {fileID: 0}
+    - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 479324, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -54
@@ -14999,6 +15163,10 @@ PrefabInstance:
     - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_Name
       value: SF_Prop_Crops_Wheat_01 (95)
+      objectReference: {fileID: 0}
+    - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 479324, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -15578,7 +15746,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 963194225}
   serializedVersion: 2
-  m_LocalRotation: {x: 0.21707582, y: 0.000000022219135, z: -0.000000004941058, w: 0.9761548}
+  m_LocalRotation: {x: 0.21707582, y: -0.000000022219144, z: 0.00000000494106, w: 0.9761548}
   m_LocalPosition: {x: -12.81, y: 7.61, z: -24.32}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -16081,6 +16249,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SF_Prop_Crops_Wheat_01 (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 479324, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -16137,6 +16309,10 @@ PrefabInstance:
     - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_Name
       value: SF_Prop_Crops_Wheat_01 (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 479324, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -16657,6 +16833,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SF_Prop_Crops_Wheat_01 (48)
       objectReference: {fileID: 0}
+    - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 479324, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -36
@@ -16853,6 +17033,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SF_Prop_Crops_Wheat_01 (64)
       objectReference: {fileID: 0}
+    - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 479324, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -54
@@ -16909,6 +17093,10 @@ PrefabInstance:
     - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_Name
       value: SF_Prop_Crops_Wheat_01 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 479324, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -17089,21 +17277,56 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
+    m_RemovedGameObjects:
+    - {fileID: 149100, guid: a3b18ca02abad9642a52aaa6235f4466, type: 3}
+    - {fileID: 104620, guid: a3b18ca02abad9642a52aaa6235f4466, type: 3}
+    - {fileID: 143252, guid: a3b18ca02abad9642a52aaa6235f4466, type: 3}
+    - {fileID: 136256, guid: a3b18ca02abad9642a52aaa6235f4466, type: 3}
+    - {fileID: 110160, guid: a3b18ca02abad9642a52aaa6235f4466, type: 3}
+    - {fileID: 116262, guid: a3b18ca02abad9642a52aaa6235f4466, type: 3}
+    - {fileID: 145738, guid: a3b18ca02abad9642a52aaa6235f4466, type: 3}
+    - {fileID: 166410, guid: a3b18ca02abad9642a52aaa6235f4466, type: 3}
+    - {fileID: 191342, guid: a3b18ca02abad9642a52aaa6235f4466, type: 3}
+    - {fileID: 164370, guid: a3b18ca02abad9642a52aaa6235f4466, type: 3}
+    - {fileID: 161926, guid: a3b18ca02abad9642a52aaa6235f4466, type: 3}
+    - {fileID: 177798, guid: a3b18ca02abad9642a52aaa6235f4466, type: 3}
+    - {fileID: 103492, guid: a3b18ca02abad9642a52aaa6235f4466, type: 3}
+    - {fileID: 120170, guid: a3b18ca02abad9642a52aaa6235f4466, type: 3}
+    - {fileID: 186430, guid: a3b18ca02abad9642a52aaa6235f4466, type: 3}
+    - {fileID: 141290, guid: a3b18ca02abad9642a52aaa6235f4466, type: 3}
+    - {fileID: 148540, guid: a3b18ca02abad9642a52aaa6235f4466, type: 3}
+    - {fileID: 108814, guid: a3b18ca02abad9642a52aaa6235f4466, type: 3}
+    - {fileID: 105074, guid: a3b18ca02abad9642a52aaa6235f4466, type: 3}
+    - {fileID: 145686, guid: a3b18ca02abad9642a52aaa6235f4466, type: 3}
+    - {fileID: 137110, guid: a3b18ca02abad9642a52aaa6235f4466, type: 3}
+    - {fileID: 158354, guid: a3b18ca02abad9642a52aaa6235f4466, type: 3}
+    - {fileID: 173104, guid: a3b18ca02abad9642a52aaa6235f4466, type: 3}
+    - {fileID: 155622, guid: a3b18ca02abad9642a52aaa6235f4466, type: 3}
+    - {fileID: 179530, guid: a3b18ca02abad9642a52aaa6235f4466, type: 3}
+    - {fileID: 121694, guid: a3b18ca02abad9642a52aaa6235f4466, type: 3}
+    - {fileID: 138382, guid: a3b18ca02abad9642a52aaa6235f4466, type: 3}
+    - {fileID: 131770, guid: a3b18ca02abad9642a52aaa6235f4466, type: 3}
+    - {fileID: 155680, guid: a3b18ca02abad9642a52aaa6235f4466, type: 3}
+    - {fileID: 164768, guid: a3b18ca02abad9642a52aaa6235f4466, type: 3}
+    - {fileID: 135972, guid: a3b18ca02abad9642a52aaa6235f4466, type: 3}
+    - {fileID: 161940, guid: a3b18ca02abad9642a52aaa6235f4466, type: 3}
+    - {fileID: 157830, guid: a3b18ca02abad9642a52aaa6235f4466, type: 3}
+    - {fileID: 132358, guid: a3b18ca02abad9642a52aaa6235f4466, type: 3}
+    - {fileID: 117874, guid: a3b18ca02abad9642a52aaa6235f4466, type: 3}
+    - {fileID: 139168, guid: a3b18ca02abad9642a52aaa6235f4466, type: 3}
+    - {fileID: 147022, guid: a3b18ca02abad9642a52aaa6235f4466, type: 3}
+    - {fileID: 107772, guid: a3b18ca02abad9642a52aaa6235f4466, type: 3}
     m_AddedGameObjects: []
     m_AddedComponents:
-    - targetCorrespondingSourceObject: {fileID: 129452, guid: a3b18ca02abad9642a52aaa6235f4466, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 1469607958}
     - targetCorrespondingSourceObject: {fileID: 129452, guid: a3b18ca02abad9642a52aaa6235f4466, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1469607963}
     - targetCorrespondingSourceObject: {fileID: 129452, guid: a3b18ca02abad9642a52aaa6235f4466, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 1469607962}
+      addedObject: {fileID: 1469607967}
     - targetCorrespondingSourceObject: {fileID: 129452, guid: a3b18ca02abad9642a52aaa6235f4466, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 1469607961}
+      addedObject: {fileID: 1469607966}
   m_SourcePrefab: {fileID: 100100000, guid: a3b18ca02abad9642a52aaa6235f4466, type: 3}
 --- !u!1 &1039831944 stripped
 GameObject:
@@ -17237,6 +17460,10 @@ PrefabInstance:
     - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_Name
       value: SF_Prop_Crops_Wheat_01 (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 479324, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -17372,6 +17599,10 @@ PrefabInstance:
     - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_Name
       value: SF_Prop_Crops_Wheat_01 (75)
+      objectReference: {fileID: 0}
+    - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 479324, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -18298,6 +18529,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SF_Prop_Crops_Wheat_01 (84)
       objectReference: {fileID: 0}
+    - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 479324, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -72
@@ -18642,89 +18877,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 4300000, guid: 50b512c55ce86a44f8442ab957639c4c, type: 3}
---- !u!1 &1136877863
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1136877867}
-  - component: {fileID: 1136877866}
-  - component: {fileID: 1136877865}
-  m_Layer: 0
-  m_Name: Cube
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!23 &1136877865
-MeshRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1136877863}
-  m_Enabled: 1
-  m_CastShadows: 1
-  m_ReceiveShadows: 1
-  m_DynamicOccludee: 1
-  m_StaticShadowCaster: 0
-  m_MotionVectors: 1
-  m_LightProbeUsage: 1
-  m_ReflectionProbeUsage: 1
-  m_RayTracingMode: 2
-  m_RayTraceProcedural: 0
-  m_RenderingLayerMask: 1
-  m_RendererPriority: 0
-  m_Materials:
-  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
-  m_StaticBatchInfo:
-    firstSubMesh: 0
-    subMeshCount: 0
-  m_StaticBatchRoot: {fileID: 0}
-  m_ProbeAnchor: {fileID: 0}
-  m_LightProbeVolumeOverride: {fileID: 0}
-  m_ScaleInLightmap: 1
-  m_ReceiveGI: 1
-  m_PreserveUVs: 0
-  m_IgnoreNormalsForChartDetection: 0
-  m_ImportantGI: 0
-  m_StitchLightmapSeams: 1
-  m_SelectedEditorRenderState: 3
-  m_MinimumChartSize: 4
-  m_AutoUVMaxDistance: 0.5
-  m_AutoUVMaxAngle: 89
-  m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: 0
-  m_AdditionalVertexStreams: {fileID: 0}
---- !u!33 &1136877866
-MeshFilter:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1136877863}
-  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
---- !u!4 &1136877867
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1136877863}
-  serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -9.73, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 1743664472}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1138124641 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 179200, guid: 43bb48f07d067d848b1d4c90aa160d5d, type: 3}
@@ -19699,6 +19851,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SF_Prop_Crops_Wheat_01 (88)
       objectReference: {fileID: 0}
+    - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 479324, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -72
@@ -19787,6 +19943,10 @@ PrefabInstance:
     - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_Name
       value: SF_Prop_Crops_Wheat_01 (18)
+      objectReference: {fileID: 0}
+    - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 479324, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -19987,6 +20147,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SF_Prop_Crops_Wheat_01 (82)
       objectReference: {fileID: 0}
+    - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 479324, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -72
@@ -20186,6 +20350,10 @@ PrefabInstance:
     - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_Name
       value: SF_Prop_Crops_Wheat_01 (78)
+      objectReference: {fileID: 0}
+    - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 479324, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -21080,6 +21248,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SF_Prop_Crops_Wheat_01 (40)
       objectReference: {fileID: 0}
+    - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 479324, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -36
@@ -21378,6 +21550,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SF_Prop_Crops_Wheat_01 (61)
       objectReference: {fileID: 0}
+    - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 479324, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -54
@@ -21466,6 +21642,10 @@ PrefabInstance:
     - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_Name
       value: SF_Prop_Crops_Wheat_01 (31)
+      objectReference: {fileID: 0}
+    - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 479324, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -21686,6 +21866,10 @@ PrefabInstance:
     - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_Name
       value: SF_Prop_Crops_Wheat_01 (32)
+      objectReference: {fileID: 0}
+    - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 479324, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -22313,6 +22497,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SF_Prop_Crops_Wheat_01 (44)
       objectReference: {fileID: 0}
+    - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 479324, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -36
@@ -22540,6 +22728,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SF_Prop_Crops_Wheat_01 (65)
       objectReference: {fileID: 0}
+    - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 479324, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -54
@@ -22762,6 +22954,10 @@ PrefabInstance:
     - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_Name
       value: SF_Prop_Crops_Wheat_01 (46)
+      objectReference: {fileID: 0}
+    - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 479324, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -23070,6 +23266,10 @@ PrefabInstance:
     - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_Name
       value: SF_Prop_Crops_Wheat_01 (54)
+      objectReference: {fileID: 0}
+    - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 479324, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -23670,89 +23870,6 @@ Transform:
   - {fileID: 1143733033}
   m_Father: {fileID: 1543844775}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1 &1382648237
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1382648238}
-  - component: {fileID: 1382648240}
-  - component: {fileID: 1382648239}
-  m_Layer: 0
-  m_Name: Cube (2)
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &1382648238
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1382648237}
-  serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 7.0939026, y: 0, z: 6.24}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 1743664472}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!23 &1382648239
-MeshRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1382648237}
-  m_Enabled: 1
-  m_CastShadows: 1
-  m_ReceiveShadows: 1
-  m_DynamicOccludee: 1
-  m_StaticShadowCaster: 0
-  m_MotionVectors: 1
-  m_LightProbeUsage: 1
-  m_ReflectionProbeUsage: 1
-  m_RayTracingMode: 2
-  m_RayTraceProcedural: 0
-  m_RenderingLayerMask: 1
-  m_RendererPriority: 0
-  m_Materials:
-  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
-  m_StaticBatchInfo:
-    firstSubMesh: 0
-    subMeshCount: 0
-  m_StaticBatchRoot: {fileID: 0}
-  m_ProbeAnchor: {fileID: 0}
-  m_LightProbeVolumeOverride: {fileID: 0}
-  m_ScaleInLightmap: 1
-  m_ReceiveGI: 1
-  m_PreserveUVs: 0
-  m_IgnoreNormalsForChartDetection: 0
-  m_ImportantGI: 0
-  m_StitchLightmapSeams: 1
-  m_SelectedEditorRenderState: 3
-  m_MinimumChartSize: 4
-  m_AutoUVMaxDistance: 0.5
-  m_AutoUVMaxAngle: 89
-  m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: 0
-  m_AdditionalVertexStreams: {fileID: 0}
---- !u!33 &1382648240
-MeshFilter:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1382648237}
-  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
 --- !u!1001 &1384031237
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -24179,6 +24296,10 @@ PrefabInstance:
     - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_Name
       value: SF_Prop_Crops_Wheat_01 (91)
+      objectReference: {fileID: 0}
+    - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 479324, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -24838,6 +24959,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SF_Prop_Crops_Wheat_01 (70)
       objectReference: {fileID: 0}
+    - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 479324, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -63
@@ -25137,6 +25262,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SF_Prop_Crops_Wheat_01 (77)
       objectReference: {fileID: 0}
+    - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 479324, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -63
@@ -25423,81 +25552,6 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 129452, guid: a3b18ca02abad9642a52aaa6235f4466, type: 3}
   m_PrefabInstance: {fileID: 1030527060}
   m_PrefabAsset: {fileID: 0}
---- !u!65 &1469607958
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1469607955}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Size: {x: 1, y: 1, z: 1}
-  m_Center: {x: 0, y: 1.07, z: 0}
---- !u!195 &1469607961
-NavMeshAgent:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1469607955}
-  m_Enabled: 1
-  m_AgentTypeID: 0
-  m_Radius: 0.5
-  m_Speed: 3.5
-  m_Acceleration: 8
-  avoidancePriority: 50
-  m_AngularSpeed: 120
-  m_StoppingDistance: 0
-  m_AutoTraverseOffMeshLink: 1
-  m_AutoBraking: 1
-  m_AutoRepath: 1
-  m_Height: 2
-  m_BaseOffset: 0
-  m_WalkableMask: 4294967295
-  m_ObstacleAvoidanceType: 4
---- !u!114 &1469607962
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1469607955}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d6ba3a0bb8d3a054fae1751924e7d8dd, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  navMeshAgent: {fileID: 1469607961}
-  startWaitTime: 4
-  timeToRotate: 2
-  speedWalk: 6
-  speedRun: 9
-  viewRadius: 15
-  viewAngle: 90
-  playerMask:
-    serializedVersion: 2
-    m_Bits: 64
-  obstacleMask:
-    serializedVersion: 2
-    m_Bits: 128
-  meshResolution: 1
-  edgeInterations: 4
-  edgeDistance: 0.5
-  waypoints:
-  - {fileID: 1136877867}
-  - {fileID: 1565435989}
-  - {fileID: 1382648238}
 --- !u!54 &1469607963
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -25525,6 +25579,42 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
+--- !u!195 &1469607966
+NavMeshAgent:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1469607955}
+  m_Enabled: 1
+  m_AgentTypeID: 0
+  m_Radius: 0.5
+  m_Speed: 3.5
+  m_Acceleration: 8
+  avoidancePriority: 50
+  m_AngularSpeed: 120
+  m_StoppingDistance: 0
+  m_AutoTraverseOffMeshLink: 1
+  m_AutoBraking: 1
+  m_AutoRepath: 1
+  m_Height: 2
+  m_BaseOffset: 0
+  m_WalkableMask: 4294967295
+  m_ObstacleAvoidanceType: 4
+--- !u!114 &1469607967
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1469607955}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cb1ab0f2b22c5494c9cc7c0792825511, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  enemy: {fileID: 1469607966}
+  Player: {fileID: 9164253539491849740}
 --- !u!1 &1470972153 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 106960, guid: 991fa559b2699de4e833bb29d5f8d83f, type: 3}
@@ -26893,6 +26983,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SF_Prop_Crops_Wheat_01 (60)
       objectReference: {fileID: 0}
+    - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 479324, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -54
@@ -27242,7 +27336,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1523580078}
   serializedVersion: 2
-  m_LocalRotation: {x: 0.21707582, y: 0.000000016796088, z: -0.000000003735089, w: 0.9761548}
+  m_LocalRotation: {x: 0.21707582, y: -0.000000016796095, z: 0.00000000373509, w: 0.9761548}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -27357,6 +27451,10 @@ PrefabInstance:
     - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_Name
       value: SF_Prop_Crops_Wheat_01 (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 479324, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -27507,6 +27605,10 @@ PrefabInstance:
     - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_Name
       value: SF_Prop_Crops_Wheat_01 (41)
+      objectReference: {fileID: 0}
+    - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 479324, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -27861,89 +27963,6 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 194388, guid: 05462eb326addb342b8cc8df1e52e952, type: 3}
   m_PrefabInstance: {fileID: 251229695}
   m_PrefabAsset: {fileID: 0}
---- !u!1 &1565435985
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1565435989}
-  - component: {fileID: 1565435988}
-  - component: {fileID: 1565435987}
-  m_Layer: 0
-  m_Name: Cube (1)
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!23 &1565435987
-MeshRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1565435985}
-  m_Enabled: 1
-  m_CastShadows: 1
-  m_ReceiveShadows: 1
-  m_DynamicOccludee: 1
-  m_StaticShadowCaster: 0
-  m_MotionVectors: 1
-  m_LightProbeUsage: 1
-  m_ReflectionProbeUsage: 1
-  m_RayTracingMode: 2
-  m_RayTraceProcedural: 0
-  m_RenderingLayerMask: 1
-  m_RendererPriority: 0
-  m_Materials:
-  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
-  m_StaticBatchInfo:
-    firstSubMesh: 0
-    subMeshCount: 0
-  m_StaticBatchRoot: {fileID: 0}
-  m_ProbeAnchor: {fileID: 0}
-  m_LightProbeVolumeOverride: {fileID: 0}
-  m_ScaleInLightmap: 1
-  m_ReceiveGI: 1
-  m_PreserveUVs: 0
-  m_IgnoreNormalsForChartDetection: 0
-  m_ImportantGI: 0
-  m_StitchLightmapSeams: 1
-  m_SelectedEditorRenderState: 3
-  m_MinimumChartSize: 4
-  m_AutoUVMaxDistance: 0.5
-  m_AutoUVMaxAngle: 89
-  m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: 0
-  m_AdditionalVertexStreams: {fileID: 0}
---- !u!33 &1565435988
-MeshFilter:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1565435985}
-  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
---- !u!4 &1565435989
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1565435985}
-  serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 7.0939026, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 1743664472}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1565611110
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -28734,6 +28753,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SF_Prop_Crops_Wheat_01 (56)
       objectReference: {fileID: 0}
+    - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 479324, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -45
@@ -28990,6 +29013,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SF_Prop_Crops_Wheat_01 (86)
       objectReference: {fileID: 0}
+    - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 479324, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -72
@@ -29047,6 +29074,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SF_Prop_Crops_Wheat_01 (71)
       objectReference: {fileID: 0}
+    - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 479324, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -63
@@ -29103,6 +29134,10 @@ PrefabInstance:
     - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_Name
       value: SF_Prop_Crops_Wheat_01 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 479324, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -29679,6 +29714,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SF_Prop_Crops_Wheat_01 (16)
       objectReference: {fileID: 0}
+    - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 479324, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -9
@@ -29762,6 +29801,10 @@ PrefabInstance:
     - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_Name
       value: SF_Prop_Crops_Wheat_01 (80)
+      objectReference: {fileID: 0}
+    - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 479324, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -29851,6 +29894,10 @@ PrefabInstance:
     - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_Name
       value: SF_Prop_Crops_Wheat_01 (15)
+      objectReference: {fileID: 0}
+    - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 479324, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -30193,6 +30240,10 @@ PrefabInstance:
     - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_Name
       value: SF_Prop_Crops_Wheat_01 (51)
+      objectReference: {fileID: 0}
+    - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 479324, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -30580,40 +30631,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f9ef6c35d9402854f851bf9e54de3ebc, type: 3}
---- !u!1 &1743664471
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1743664472}
-  m_Layer: 0
-  m_Name: PatrolPoints
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &1743664472
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1743664471}
-  serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -31.713903, y: 0.84, z: -14.16}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children:
-  - {fileID: 1136877867}
-  - {fileID: 1565435989}
-  - {fileID: 1382648238}
-  m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &1749503499 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 479324, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
@@ -30786,6 +30803,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SF_Prop_Crops_Wheat_01 (58)
       objectReference: {fileID: 0}
+    - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 479324, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -45
@@ -30917,6 +30938,10 @@ PrefabInstance:
     - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_Name
       value: SF_Prop_Crops_Wheat_01 (23)
+      objectReference: {fileID: 0}
+    - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 479324, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -31577,6 +31602,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SF_Prop_Crops_Wheat_01 (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 479324, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -9
@@ -31675,6 +31704,10 @@ PrefabInstance:
     - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_Name
       value: SF_Prop_Crops_Wheat_01 (55)
+      objectReference: {fileID: 0}
+    - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 479324, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -31866,6 +31899,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SF_Prop_Crops_Wheat_01 (37)
       objectReference: {fileID: 0}
+    - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 479324, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -27
@@ -31923,6 +31960,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SF_Prop_Crops_Wheat_01 (81)
       objectReference: {fileID: 0}
+    - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 479324, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -72
@@ -31979,6 +32020,10 @@ PrefabInstance:
     - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_Name
       value: SF_Prop_Crops_Wheat_01 (83)
+      objectReference: {fileID: 0}
+    - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 479324, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -32042,6 +32087,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SF_Prop_Crops_Wheat_01 (47)
       objectReference: {fileID: 0}
+    - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 479324, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -36
@@ -32098,6 +32147,10 @@ PrefabInstance:
     - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_Name
       value: SF_Prop_Crops_Wheat_01 (85)
+      objectReference: {fileID: 0}
+    - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 479324, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -32502,6 +32555,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SF_Prop_Crops_Wheat_01 (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 479324, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -9
@@ -32595,6 +32652,10 @@ PrefabInstance:
     - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_Name
       value: SF_Prop_Crops_Wheat_01 (27)
+      objectReference: {fileID: 0}
+    - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 479324, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -32904,6 +32965,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SF_Prop_Crops_Wheat_01 (20)
       objectReference: {fileID: 0}
+    - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 479324, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -18
@@ -33129,6 +33194,10 @@ PrefabInstance:
     - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_Name
       value: SF_Prop_Crops_Wheat_01 (94)
+      objectReference: {fileID: 0}
+    - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 479324, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -33468,6 +33537,10 @@ PrefabInstance:
     - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_Name
       value: SF_Prop_Crops_Wheat_01 (76)
+      objectReference: {fileID: 0}
+    - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 479324, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -34424,6 +34497,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SF_Prop_Crops_Wheat_01 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 479324, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -34834,6 +34911,10 @@ PrefabInstance:
     - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_Name
       value: SF_Prop_Crops_Wheat_01 (17)
+      objectReference: {fileID: 0}
+    - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 479324, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -35601,6 +35682,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SF_Prop_Crops_Wheat_01 (96)
       objectReference: {fileID: 0}
+    - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 479324, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -81
@@ -35825,6 +35910,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SF_Prop_Crops_Wheat_01 (25)
       objectReference: {fileID: 0}
+    - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 479324, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -18
@@ -35886,6 +35975,10 @@ PrefabInstance:
     - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_Name
       value: SF_Prop_Crops_Wheat_01 (68)
+      objectReference: {fileID: 0}
+    - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 479324, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -36123,6 +36216,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SF_Prop_Crops_Wheat_01 (21)
       objectReference: {fileID: 0}
+    - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 479324, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -18
@@ -36255,6 +36352,10 @@ PrefabInstance:
     - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_Name
       value: SF_Prop_Crops_Wheat_01 (97)
+      objectReference: {fileID: 0}
+    - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 479324, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -36593,6 +36694,10 @@ PrefabInstance:
     - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_Name
       value: SF_Prop_Crops_Wheat_01 (93)
+      objectReference: {fileID: 0}
+    - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 479324, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -36963,6 +37068,10 @@ PrefabInstance:
     - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_Name
       value: SF_Prop_Crops_Wheat_01 (36)
+      objectReference: {fileID: 0}
+    - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 479324, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -37335,6 +37444,10 @@ PrefabInstance:
     - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_Name
       value: SF_Prop_Crops_Wheat_01 (28)
+      objectReference: {fileID: 0}
+    - target: {fileID: 197178, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 479324, guid: b33243cded6c66c4ab41347fc933752c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -38935,4 +39048,3 @@ SceneRoots:
   - {fileID: 1537592396}
   - {fileID: 1122912840}
   - {fileID: 1030527060}
-  - {fileID: 1743664472}
